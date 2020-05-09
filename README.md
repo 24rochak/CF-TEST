@@ -1,2 +1,2 @@
 # CF-TEST
-Test repo for cloud formation and code pipeline
+Test repo for cloud formation and code pipeline.
