@@ -11,6 +11,7 @@ from elasticsearch.client import IndicesClient
 from elasticsearch.helpers import scan
 '''
 
+
 global endpoint
 #endpoint = "vpc-photos-iyqoulxe2cmgeprfim4lcb47aq.us-east-1.es.amazonaws.com"
 endpoint = "https://"+os.environ['ESENDPOINT']
